@@ -1,1 +1,6 @@
-# Add  code here!
+def primie?(integer)
+  if prime 
+    true 
+  else 
+    false 
+end
