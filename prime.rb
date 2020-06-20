@@ -1,6 +1,6 @@
 def prime?(integer)
 
-  if prime 
+  if integer % integer == 0
     true 
   else 
     false 
