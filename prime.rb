@@ -1,3 +1,3 @@
 def prime?(n)
-(2..n).each {|n| number% == 0}
+(2..n).none? {|n| number% == 0}
 end
