@@ -1,4 +1,4 @@
-def primie?(integer)
+def prime?(integer)
 
   if prime 
     true 
